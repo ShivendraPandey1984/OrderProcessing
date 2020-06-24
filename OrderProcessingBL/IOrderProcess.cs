@@ -6,6 +6,6 @@ namespace OrderProcessingBL
 {
    public interface IOrderProcess
     {
-        void ProcessOrder();
+        int ProcessOrder();
     }
 }
