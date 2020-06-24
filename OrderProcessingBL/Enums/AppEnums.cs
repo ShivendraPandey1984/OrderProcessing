@@ -4,9 +4,8 @@ using System.Text;
 
 namespace OrderProcessingBL.Enums
 {
-    class AppEnums
-    {
-        enum PaymentTypes
+   
+        public enum PaymentTypes
         {
             PhysicalProduct = 0,
             Book = 1,
@@ -15,5 +14,5 @@ namespace OrderProcessingBL.Enums
             Video = 4
         }
 
-    }
+    
 }
