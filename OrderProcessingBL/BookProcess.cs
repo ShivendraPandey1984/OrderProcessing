@@ -8,6 +8,8 @@ namespace OrderProcessingBL
     {
         public int ProcessOrder()
         {
+            // Create a duplicate packing slip for royality dept
+            // Generate a commision payment to agent 
             return 1;
         }
     }

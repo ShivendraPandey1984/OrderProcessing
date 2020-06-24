@@ -7,7 +7,8 @@ namespace OrderProcessingBL
     public class UpgradeProcess:IOrderProcess
     {
         public int ProcessOrder()
-        {
+        { 
+            // Apply upgrade 
             return 3;
         }
     }

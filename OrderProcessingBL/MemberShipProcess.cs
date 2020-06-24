@@ -8,6 +8,7 @@ namespace OrderProcessingBL
     {
         public int ProcessOrder()
         {
+            // Activate member ship
             return 2;
         }
     }

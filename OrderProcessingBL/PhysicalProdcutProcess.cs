@@ -8,6 +8,8 @@ namespace OrderProcessingBL
     {
         public int ProcessOrder()
         {
+            // Genrate a packing slip for shipping 
+            // Generate a commision payment to agent 
             return 0;
         }
     }
