@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessing", "OrderProcessing.csproj", "{1649F65A-22BB-4250-A0C9-3B140919F5CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessingBL", "..\OrderProcessingBL\OrderProcessingBL.csproj", "{A962D1C5-246D-4D55-8E6E-AB5694C246F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1649F65A-22BB-4250-A0C9-3B140919F5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1649F65A-22BB-4250-A0C9-3B140919F5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1649F65A-22BB-4250-A0C9-3B140919F5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1649F65A-22BB-4250-A0C9-3B140919F5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A962D1C5-246D-4D55-8E6E-AB5694C246F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A962D1C5-246D-4D55-8E6E-AB5694C246F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A962D1C5-246D-4D55-8E6E-AB5694C246F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A962D1C5-246D-4D55-8E6E-AB5694C246F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62BB9131-4CB6-4613-BD25-1954093B0B45}
+	EndGlobalSection
+EndGlobal
