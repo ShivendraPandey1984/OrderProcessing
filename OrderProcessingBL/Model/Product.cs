@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OrderProcessingBL.Model
 {
-    class Product
+   public class Product
     {
         public string Name  // property
         { get; set; }

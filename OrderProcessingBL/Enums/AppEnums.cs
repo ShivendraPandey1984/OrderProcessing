@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OrderProcessingBL.Enums
 {
-   
+  
         public enum PaymentTypes
         {
             PhysicalProduct = 0,

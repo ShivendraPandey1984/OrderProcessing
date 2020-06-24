@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessing", "OrderPro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessingBL", "..\OrderProcessingBL\OrderProcessingBL.csproj", "{A962D1C5-246D-4D55-8E6E-AB5694C246F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLTest", "..\BLTest\BLTest.csproj", "{7E74F217-4D37-4C6C-A1FF-C50CB7174204}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A962D1C5-246D-4D55-8E6E-AB5694C246F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A962D1C5-246D-4D55-8E6E-AB5694C246F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A962D1C5-246D-4D55-8E6E-AB5694C246F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E74F217-4D37-4C6C-A1FF-C50CB7174204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E74F217-4D37-4C6C-A1FF-C50CB7174204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E74F217-4D37-4C6C-A1FF-C50CB7174204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E74F217-4D37-4C6C-A1FF-C50CB7174204}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
