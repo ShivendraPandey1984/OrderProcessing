@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OrderProcessingBL
 {
-    interface IOrderProcess
+   public interface IOrderProcess
     {
         void ProcessOrder();
     }

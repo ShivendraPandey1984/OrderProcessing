@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OrderProcessingBL
 {
-    class UpgradeProcessIOrderProcess
+    public class UpgradeProcess:IOrderProcess
     {
         public void ProcessOrder()
         {

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OrderProcessingBL
 {
-    class PhysicalProdcutProcessIOrderProcess
+    public class PhysicalProdcutProcess:IOrderProcess
     {
         public void ProcessOrder()
         {

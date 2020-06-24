@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OrderProcessingBL
 {
-    class VideoProcessIOrderProcess
+    public class VideoProcess:IOrderProcess
     {
         public void ProcessOrder()
         {
